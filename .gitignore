@@ -3,3 +3,11 @@
 ################################################################################
 
 /API/bin/Debug/netstandard2.0
+/API/obj
+/CMD/bin/Debug/netcoreapp3.1
+/CMD/obj
+/MainAPI/obj
+/Test/bin/Debug/netcoreapp3.1
+/Test/obj/Debug/netcoreapp3.1
+/Test/obj
+/.vs/dbConsole
