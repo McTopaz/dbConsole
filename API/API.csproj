@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>dbConsole.API</AssemblyName>
+    <RootNamespace>dbConsole.API</RootNamespace>
+    <Product>Database Console</Product>
+    <Authors>Stefan Eriksson</Authors>
+    <Company></Company>
+    <PackageId>dbConsole</PackageId>
+  </PropertyGroup>
+
+</Project>
